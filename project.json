@@ -4,7 +4,9 @@
     "debugType": "portable",
     "emitEntryPoint": true
   },
-  "dependencies": {},
+  "dependencies": {
+    "AMQPNetLite": "1.2.0"
+  },
   "frameworks": {
     "netcoreapp1.0": {
       "dependencies": {
